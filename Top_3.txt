@@ -1,0 +1,67 @@
+BÀI TẬP 2: • Xác định 3 cầu thủ cao nhất và thấp nhất cho từng chỉ số thống kê. Lưu kết quả vào tệp ‘top_3.txt’
+Player,Goals,Assists,Shots,Passes,Tackles
+Messi,30,15,100,800,10
+Ronaldo,25,5,120,600,5
+Neymar,15,10,80,700,12
+Mbappe,20,8,90,750,8
+Haaland,35,2,110,550,15
+Salah,22,12,95,650,7
+Kane,28,11,105,680,9
+--------------------------------------------------------------------------------------------
+
+--- Top 3 cầu thủ có Goals cao nhất ---
+  Player  Goals
+0 Haaland     35
+1 Messi       30
+2 Kane        28
+
+--- Top 3 cầu thủ có Goals thấp nhất ---
+  Player  Goals
+0 Neymar     15
+1 Mbappe     20
+2 Salah      22
+
+--- Top 3 cầu thủ có Assists cao nhất ---
+  Player  Assists
+0 Messi        15
+1 Salah        12
+2 Neymar       10
+
+--- Top 3 cầu thủ có Assists thấp nhất ---
+  Player  Assists
+0 Haaland       2
+1 Ronaldo       5
+2 Mbappe        8
+
+--- Top 3 cầu thủ có Shots cao nhất ---
+  Player  Shots
+1 Ronaldo    120
+0 Haaland    110
+2 Kane       105
+
+--- Top 3 cầu thủ có Shots thấp nhất ---
+0 Neymar      80
+3 Mbappe      90
+4 Salah       95
+
+--- Top 3 cầu thủ có Passes cao nhất ---
+  Player  Passes
+0 Messi      800
+3 Mbappe     750
+2 Neymar     700
+
+--- Top 3 cầu thủ có Passes thấp nhất ---
+0 Haaland     550
+1 Ronaldo     600
+4 Salah       650
+
+--- Top 3 cầu thủ có Tackles cao nhất ---
+  Player  Tackles
+0 Haaland       15
+2 Neymar        12
+0 Messi         10
+
+--- Top 3 cầu thủ có Tackles thấp nhất ---
+1 Ronaldo        5
+4 Salah          7
+3 Mbappe         8
